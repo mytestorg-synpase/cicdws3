@@ -1,0 +1,11 @@
+{
+	"name": "xl_adf_akv",
+	"type": "Microsoft.Synapse/workspaces/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://xl-adf-akv.vault.azure.net/"
+		}
+	}
+}
